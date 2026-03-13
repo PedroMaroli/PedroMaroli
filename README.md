@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Pedro
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=30&center=true&vCenter=true&width=600&lines=Estudante+de+Programação;Aprendendo+Python;Apaixonado+por+Tecnologia;Bem-vindo+ao+meu+GitHub!" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=30&center=true&vCenter=true&width=600&lines=Estudante+de+Programação;Aprendendo+Python;Bem-vindo+ao+meu+GitHub!" />
 
 ---
 
