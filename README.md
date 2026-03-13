@@ -6,6 +6,7 @@
 
 ## 🚀 Sobre mim
 
+✝️ Sou Cristão
 💻 Estudante de programação  
 🧠 Interessado em tecnologia e inteligência artificial  
 📚 Atualmente aprendendo **Python**  
